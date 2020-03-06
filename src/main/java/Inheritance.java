@@ -19,6 +19,7 @@ public class Inheritance extends A {
         System.out.println(a.x);
         a1.sing();
         a.sing();
+        System.out.println("Hello");
     }
 
 }
